@@ -1,2 +1,2 @@
 # Brainwave_Matrix_Intern
- this  project is  a task  on the  the  analysis   of a commercial  store  ,  undesrstanding  the  consumer  behaviour and  also   the sale  trend over a   period of time .
+This project analyzes customer satisfaction and sales performance across various product lines in a retail business, utilizing data visualization and correlation analysis to provide insights that inform strategic decisions for enhancing customer experience and driving sales growth.
